@@ -1,0 +1,43 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  background: linear-gradient(56deg, #49a09d, #5f2c82);
+}
+
+table {
+  width: 100%;
+  max-width: 800px;
+  max-height: 800px;
+  margin: 0 auto;
+  border-collapse: collapse;
+  overflow-y: scroll;
+  -webkit-box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+          box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(56deg, #49a09d, #5f2c82);
+  display: block;
+}
+
+th,
+td {
+  padding: 15px;
+  background-color: rgba(255, 255, 255, 0.2);
+  color: #fff;
+}
+
+th {
+  text-align: left;
+}
+
+thead th {
+  background-color: #55608f;
+}
+
+tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+/*# sourceMappingURL=style.css.map */
