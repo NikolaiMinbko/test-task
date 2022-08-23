@@ -1,5 +1,5 @@
 # test-task
 GitHub pages
-https://nikolaiminbko.github.io/practice-1/
-https://nikolaiminbko.github.io/practice-2/
-https://nikolaiminbko.github.io/practice-3/
+<br>https://nikolaiminbko.github.io/practice-1/
+<br>https://nikolaiminbko.github.io/practice-2/
+<br>https://nikolaiminbko.github.io/practice-3/
